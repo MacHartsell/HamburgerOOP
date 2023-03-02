@@ -5,7 +5,8 @@
 
 
 # Tobinfdsdsdfsd Code
-
+Queue = []
+Dictionary = []
 
 # Teilani Code
 
