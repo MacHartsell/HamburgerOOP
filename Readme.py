@@ -1,3 +1,2 @@
-#Description:
-#Authors: Mac Hartsell,
-
+# Description:
+# Authors: Mac Hartsell, Tobin Whitworth
